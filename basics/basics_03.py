@@ -10,5 +10,3 @@ print(human1 + human2 + human3)
 arithmetic_sum = (human1 + human2 + human3) / 3
 
 print(arithmetic_sum)
-
-# ля ля ля
