@@ -8,5 +8,5 @@ first_name = "Boris"
 lastname = "Britva"
 age = "55"
 
-final_str = 'Привет, меня зовут Иван Иванович ' + first_name + ' ' + lastname + ', мне ' + age + ' лет'
+final_str = 'Привет, меня зовут ' + first_name + ' ' + lastname + ', мне ' + age + ' лет'
 print(final_str)
